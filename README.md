@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**Ashishjaiswal96/Ashishjaiswal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Ashish Jaiswal and I'm a Power BI Developer</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👀 I’m interested in Power Bi | SQL | ADF <br>🌱 I’m currently Working as Power Bi Developer<br>📫 How to reach me ...<br>emial : Jasiwalashish96@gmail.com</p>
+
+###
+
+<div align="left">
+  <a href="https://in.linkedin.com/in/ashish-jaiswal-b57090202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i0.wp.com/sqlserverbi.blog/wp-content/uploads/2022/08/image-2.png?w=724&ssl=1"  />
+</div>
+
+###
